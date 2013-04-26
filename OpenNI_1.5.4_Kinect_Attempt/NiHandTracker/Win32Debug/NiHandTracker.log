@@ -1,0 +1,22 @@
+﻿Build started 4/23/2013 7:16:49 PM.
+     1>Project "C:\Users\Jessica\Documents\'13 Spring\18549 Embedded Systems Capstone\NiHandTracker\NiHandTracker.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32Debug\NiHandTracker.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Win32Debug\NiHandTracker.unsuccessfulbuild".
+         Touching "Win32Debug\NiHandTracker.lastbuildstate".
+     1>Done Building Project "C:\Users\Jessica\Documents\'13 Spring\18549 Embedded Systems Capstone\NiHandTracker\NiHandTracker.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.10
